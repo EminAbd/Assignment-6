@@ -1,0 +1,46 @@
+Pseudocode 1 - Hungry Customer
+
+let codeCandy = 111;
+let codeChips = 222;
+
+let priceCandy = 2;
+let priceChips = 3;
+
+let coinCustomer = "";
+let codeCustomer = "";
+
+if (codeCustomer == 111 && coinCustomer == 2) then
+customer get CANDY 
+
+else if (codeCustomer == 222 && coinCustomer == 3) then
+customer get CHIPS
+
+else then message occur: "Please type the correct Code"
+
+
+
+Pseudocode 2 - Machine Owner
+
+for(daily activity) {
+
+while(key) do { unlock the Machine }
+
+for(snacks) {
+  if(chips<5 && candy < 5) then 
+  restocke the Machine
+
+  else then leave it for now
+}
+
+for(coin) {
+  if(coin > 10) then 
+  empty the box
+
+  else then leave it for now
+}
+
+}
+
+
+
+
